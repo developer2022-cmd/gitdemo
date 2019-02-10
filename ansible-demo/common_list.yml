@@ -1,0 +1,4 @@
+listofpackages:
+  - telnetd
+  - nagios
+  - elasticsearch
