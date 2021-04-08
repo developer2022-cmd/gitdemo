@@ -19,7 +19,6 @@ Bonus point: If Pull Requests are linked with e-mail to the manager who finally 
 
 https://github.com/developer2022-cmd/gitdemo.git
 
-
 git clone https://github.com/developer2022-cmd/gitdemo.git
 
 git config --global user.name "developer2022-cmd"
@@ -33,3 +32,11 @@ git config --local user.email "2019ht66559@gmail.com"
 git branch -a  (list all Branch in repo)
 
 git checkout development  (Switched to local branch 'development')
+
+git branch -a
+git branch production
+git push -u origin production
+
+git checkout development
+git tag -a V1.0.0 -m "ABC feature release in tag"
+git tag
