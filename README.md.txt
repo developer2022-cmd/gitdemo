@@ -33,3 +33,5 @@ git config --local user.email "2019ht66559@gmail.com"
 git branch -a  (list all Branch in repo)
 
 git checkout development  (Switched to local branch 'development')
+
+git branch -a  (list all Branch in repo)
